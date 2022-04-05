@@ -1,7 +1,7 @@
 <table>
     <tbody>
         <tr>
-            <td rowspan=2><h3><a href="https://play.google.com/store/apps/dev?id=5462843777539313894">&nbsp;&nbsp;&nbsp;&nbsp;View my Android apps on Google Play</a></h3></td>
+            <td rowspan=2><h3>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/dev?id=5462843777539313894">View my Android apps on Google Play</a></h3></td>
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/anuraghazra/convoychat">
